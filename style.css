@@ -1,0 +1,8 @@
+table{
+    /* width: 200px;
+    height: 250px  */
+    border: 2px solid red;
+}
+tr,th,td{
+    border: 2px solid green;
+}
